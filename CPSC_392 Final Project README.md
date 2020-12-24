@@ -1,0 +1,2 @@
+# chapman-projects
+The CPSC 392 Final Project was a project myself and two other group memebers took on for this Data Science class. We were required to find a data set that interested us, come up with questions to answer from the data set, run it through many different algorithms and models we learned from the class, and present on our findings. The python code was all executed in jupyter notebook and the video presentation was uploaded to youtube (https://youtu.be/-jIPkhTOjyM).
